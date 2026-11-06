@@ -1,0 +1,5 @@
+google-genai>=1.0.0
+google-cloud-bigquery>=3.20.0
+google-auth>=2.20.0
+requests>=2.31.0
+PyYAML>=6.0
